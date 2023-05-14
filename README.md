@@ -12,13 +12,15 @@
 <h3 align="center">
   Neupium is an open-source Neupica project
 </h3>
+<p align="center"> Neupica is Enhanced Programmatic Web Rendering Engine</p>
 
-<h3 align="center">
-  Neupica is Enhanced Programmatic Web Rendering Engine
+<p align="center"> Neupica is currently closed-source due to license problem</p>
+<h4 align="center">
+
 </h3>
 
-<h3 align="center">
-  Neupica is currently closed-source due to license problem
+<h4 align="center">
+
 </h3>
 
 <p align="center">
