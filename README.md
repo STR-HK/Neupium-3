@@ -1,5 +1,3 @@
-# Neupium-3
-
 <h1 align="center">
  Neupium-3
  </h1>
